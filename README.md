@@ -1,4 +1,4 @@
-#Haskell-2048-DEYORS (English)
+# Haskell-2048-DEYORS (English)
 
 The 2048 game programmed in Haskell, making use of the IO interface and other implementations that improve the gameplay, such as the option of having different designs and instructions.
 
